@@ -1,4 +1,4 @@
-[video](https://youtu.be/zduSFxRajkE)
+[video](https://youtu.be/zduSFxRajkE) | [colab](https://colab.research.google.com/drive/1y0KnCFZvGVf_odSfcNAws6kcDD7HsI0L?usp=sharing) | [repo](https://github.com/karpathy/minbpe)
 
 ## Unicode
 - utf-8, utf-16, utf-32
@@ -35,4 +35,5 @@
 
 ## GPT2 code
 - [encoder.py](https://github.com/openai/gpt-2/blob/master/src/encoder.py)
-- 
+- `im` in `<|im_start|>` is imaginary monologue
+-  
