@@ -16,7 +16,20 @@
 ## Byte-Pair Encoding Algorithm
 - [wiki](https://en.wikipedia.org/wiki/Byte_pair_encoding)
 - we identify the most repeated pair of chars in a sequence and then replace it with another single char, repeat till every pair of chars is unique.
+
 ### Tokenizer
 - it is a encoder-decoder 
 - it is trained just like a model
-- training set for tokenizer is seperate than that of the model 
+- training set for tokenizer is seperate than that of the model.
+
+[gpt2 paper](https://d4mucfpksywv.cloudfront.net/better-language-models/   language_models_are_unsupervised_multitask_learners.pdf)
+
+### regex pattern
+- `\p{L}` -> matches any letter (\p{Letter})
+- `\p{N}` -> matches any number (\p{Number})
+- `\s`    -> matches whitespace
+
+## Tiktoken lib
+- `pip install tiktoken`
+- check different gpt tokenizers [here](https://github.com/openai/tiktoken/blob/main/tiktoken_ext/openai_public.py)
+
