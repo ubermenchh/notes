@@ -40,3 +40,9 @@
 ## sentencepiece ([repo](https://github.com/google/sentencepiece))
 - tiktoken encodes to utf-8 and then BPEs bytes
 - sentencepiece BPEs the code points and optionally falls back to utf-8 bytes for rare code point, which are then translated to byte tokens.
+
+#### vocab_size
+- too big vocab_size will lead to undertraining as a large number of tokens will show up rarely.
+- too small vocab_size, the tokens will get squished into one many large chunks which will not be able to provide sufficient info to the model
+
+[paper introducing new tokens](https://arxiv.org/abs/2304.08467) 
