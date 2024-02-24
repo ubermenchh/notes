@@ -33,3 +33,6 @@
 - `pip install tiktoken`
 - check different gpt tokenizers [here](https://github.com/openai/tiktoken/blob/main/tiktoken_ext/openai_public.py)
 
+## GPT2 code
+- [encoder.py](https://github.com/openai/gpt-2/blob/master/src/encoder.py)
+- 
