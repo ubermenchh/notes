@@ -16,4 +16,7 @@
 ## Byte-Pair Encoding Algorithm
 - [wiki](https://en.wikipedia.org/wiki/Byte_pair_encoding)
 - we identify the most repeated pair of chars in a sequence and then replace it with another single char, repeat till every pair of chars is unique.
-- 
+### Tokenizer
+- it is a encoder-decoder 
+- it is trained just like a model
+- training set for tokenizer is seperate than that of the model 
