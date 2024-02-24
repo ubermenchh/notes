@@ -38,4 +38,6 @@
 - `im` in `<|im_start|>` is imaginary monologue
 
 ## sentencepiece ([repo](https://github.com/google/sentencepiece))
+- tiktoken encodes to utf-8 and then BPEs bytes
+- sentencepiece BPEs the code points and optionally falls back to utf-8 bytes for rare code point, which are then translated to byte tokens.
 - 
