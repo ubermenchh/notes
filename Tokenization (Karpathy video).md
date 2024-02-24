@@ -36,4 +36,6 @@
 ## GPT2 code
 - [encoder.py](https://github.com/openai/gpt-2/blob/master/src/encoder.py)
 - `im` in `<|im_start|>` is imaginary monologue
--  
+
+## sentencepiece ([repo](https://github.com/google/sentencepiece))
+- 
