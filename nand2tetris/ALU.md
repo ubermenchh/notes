@@ -1,0 +1,2 @@
+- von neumann architecture ([wiki](https://en.wikipedia.org/wiki/Von_Neumann_architecture))
+- 
