@@ -2,4 +2,3 @@
 - [alu wiki](https://en.wikipedia.org/wiki/Arithmetic_logic_unit) 
 - ALU computes a function on the two inputs and outputs the result
 - It can perform both arithmetic(addition, multiplication, division, ...) and logical(And, Or, Xor, ....)
-- 
