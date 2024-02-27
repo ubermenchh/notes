@@ -1,3 +1,6 @@
+## Combinatorial Logic
+- if the output is computed "instantaneously"
+- 
 ## Data Flip-Flops(DFF)
 - single bit data input and output
 - also has a clock input that feeds in from master clock
