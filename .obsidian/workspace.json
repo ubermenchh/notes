@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "746977210bd6b69e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -174,9 +162,9 @@
   },
   "active": "c527c8fbcfab7754",
   "lastOpenFiles": [
-    "CLIP.md",
-    "ML Dump.md",
     "Intro.md",
+    "ML Dump.md",
+    "CLIP.md",
     "dragon book",
     "nand2tetris/Machine Language.md"
   ]
