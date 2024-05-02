@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d165e30f22743cff",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro.md",
+                "file": "CLIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro.md",
+                "file": "CLIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro.md"
+                "file": "CLIP.md"
               }
             }
           }
@@ -160,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "746977210bd6b69e",
+  "active": "d5791b88267dae5d",
   "lastOpenFiles": [
-    "CLIP.md",
     "Intro.md",
+    "CLIP.md",
     "dragon book",
     "nand2tetris/Machine Language.md"
   ]
