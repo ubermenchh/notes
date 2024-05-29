@@ -10,4 +10,4 @@ $$ RMS(a) = \sqrt{\frac{1}{n}\sum_{i=1}^{n}a^2_i} $$
 - RMSNorm does not re-center summed inputs as in LayerNorm
 
 # Rotary Position Embeddings (RoPE)
-- 
+- /
