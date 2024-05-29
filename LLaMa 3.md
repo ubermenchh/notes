@@ -9,3 +9,5 @@ $$ RMS(a) = \sqrt{\frac{1}{n}\sum_{i=1}^{n}a^2_i} $$
 - RMSNorm simplifies LayerNorm by totally removing the mean stat
 - when mean of summed inputs is zero, RMSNorm $\Leftrightarrow$ LayerNorm 
 - RMSNorm does not re-center summed inputs as in LayerNorm
+
+# Rotary Embeddings (RoPE)
